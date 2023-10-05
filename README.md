@@ -1,4 +1,8 @@
 # Vingt-Un/Blackjack
+• Built a terminal game of blackjack to stimulate and play against a
+dealer/computer.<br>
+• Used various statistics logic and Python libraries for development.<br>
+
 Features of Blackjack:  
 •	Create a deck of 52 cards  
 •	Shuffle the deck  
